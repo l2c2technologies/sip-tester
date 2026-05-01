@@ -1,4 +1,4 @@
-# Koha SIP2 Raw Socket Tester
+# Koha SIP2 raw socket tester
 
 A menu-driven SIP2 raw socket tester for Koha.
 
